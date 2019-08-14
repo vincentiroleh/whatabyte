@@ -26,3 +26,4 @@ Checkout the package.json file, you will figure it out.
  - `AUTH0_DOMAIN=`
  - `AUTH0_CLIENT_SECRET=`
 
+Credit to [Dan Arias's Article](https://auth0.com/blog/create-a-simple-and-stylish-node-express-app/)
