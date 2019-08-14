@@ -55,7 +55,7 @@ passport.serializeUser((user, done) => {
 
 passport.deserializeUser((user, done) => {
     done(null, user);
-})
+});
 
 app.set("views", path.join(__dirname, "views"));
 app.set("view engine", "pug");
