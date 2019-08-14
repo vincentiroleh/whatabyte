@@ -1,8 +1,6 @@
 # whatabyte
  
-A fictional restaurant named WHATABYTE that specializes in making delicious food for developers.
-
-Food? I mean a response, what where you expecting? jollof rice? lols.. sorry.
+A fictional restaurant named WHATABYTE that specializes in making delicious food (json data) for developers.
 
 
 # Technologies used
