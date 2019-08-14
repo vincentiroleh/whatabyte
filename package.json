@@ -4,6 +4,7 @@
   "description": "A fictional restaurant named WHATABYTE that specializes in making delicious food for developers.",
   "main": "index.js",
   "scripts": {
+    "start" : "node ./index.js",
     "dev": "nodemon ./index.js",
     "ui": "browser-sync start --proxy=localhost:8000 --files='**/*.css, **/*.pug, **/*.js' --ignore=node_modules --reload-delay 10 --no-ui --no-notify"
   },
